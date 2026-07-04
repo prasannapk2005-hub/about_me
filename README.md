@@ -8,9 +8,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN__TO__WORK-F59E0B?style=flat-square&labelColor=0D0D0D&color=F59E0B" />
-<img src="https://img.shields.io/badge/BASE-COIMBATORE,_IN-F59E0B?style=flat-square&labelColor=0D0D0D&color=0D0D0D" />
-<img src="https://komarev.com/ghpvc/?username=karthikprasanna07&style=flat-square&color=0D0D0D&label=VISITORS" />
+<img src="https://img.shields.io/badge/STATUS-OPEN__TO__WORK-0D0D0D?style=flat-square&labelColor=F59E0B&color=0D0D0D" />
+<img src="https://img.shields.io/badge/BASE-COIMBATORE,_IN-0D0D0D?style=flat-square&labelColor=F59E0B&color=0D0D0D" />
+<img src="https://komarev.com/ghpvc/?username=karthikprasanna07&style=flat-square&color=0D0D0D&label=VISITORS&labelColor=F59E0B" />
 
 </div>
 
